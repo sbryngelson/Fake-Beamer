@@ -31,7 +31,7 @@ Learn to do this [here](https://support.apple.com/en-us/HT201749) (Mac) or [here
 ### Enable Header \& Footer
 
 The classic Beamer footer can only be seen by enabling "Headers \& Footers"!
-Do this via `Insert`, `Header \& Footer` and then fill out as appropriate. 
+Do this via `Insert`, `Header & Footer` and then fill out as appropriate. 
 
 ### I don't like the classic Beamer Blue!
 
