@@ -9,7 +9,7 @@ You like Beamer but need to use PowerPoint? Fake Beamer is for you!
 ## Disclaimer
 
 I don't fully appreciate (read: understand) Microsoft PowerPoint.
-This template and theme have undergone only mild testing via my Mac (Monterrey) and a Windows 11 VM.
+This template has undergone only mild testing via my Mac (Monterrey) and a Windows 11 VM.
 I suspect there to be some bugs, particularly associated with the required fonts.
 
 ## How to use
@@ -23,15 +23,15 @@ You should also be able to just use the example presentation, `example.pptx`.
 
 ### Install Computer Modern fonts
 
-What would a Fake Beamer be without appropriate _Computer Modern_ fonts?!
-They are so important, I even included them in the repository. 
+What would Fake Beamer be without _Computer Modern_ fonts?!
+They are so important, I even included them in the repository, `computer-modern-fonts/`. 
 You should install them.
 Learn to do this [here](https://support.apple.com/en-us/HT201749) (Mac) or [here](https://www.lifewire.com/install-fonts-in-windows-11-5192443) (Windows).
 
 ### Enable Header \& Footer
 
 The classic Beamer footer can only be seen by enabling "Headers \& Footers"!
-Do this via `Insert`, `Header \& Footer` and then fill out as appropriate. 
+Do this via (on Mac) `Insert`, `Header \& Footer` and then fill out as appropriate. 
 
 ### I don't like the classic Beamer Blue!
 
