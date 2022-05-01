@@ -48,4 +48,4 @@ I also will accept fixes via Pull Requests, if you can explain them well.
 
 ## License
 
-MIT
+MIT. The CM fonts are licensed the terms of the Open Font License.
