@@ -2,8 +2,8 @@
 
 You like Beamer but need to use PowerPoint? Fake Beamer is for you!
 
-[](images/title.png)  
-[](images/content.png)
+![](images/title.png)  
+![](images/content.png)
 
 ## Disclaimer
 
