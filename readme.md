@@ -1,4 +1,4 @@
-# PPT-Beamer (aka Fake Beamer)
+# Fake Beamer
 
 You like Beamer but need to use PowerPoint? Fake Beamer is for you!
 
