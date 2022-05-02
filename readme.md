@@ -44,8 +44,8 @@ The other named colors are not used by the theme.
 ## Contribute
 
 Git isn't built for such PowerPoint files, but I appreciate comments via Issues.
-I also will accept fixes via Pull Requests, if you can explain them well.
+I also will accept fixes via Pull Requests if you can explain them well.
 
 ## License
 
-MIT
+MIT. The CM fonts are licensed under the terms of Open Font License.
