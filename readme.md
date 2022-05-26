@@ -8,7 +8,7 @@ You like Beamer but need to use PowerPoint? Fake Beamer is for you!
 ## Disclaimer
 
 I don't fully appreciate (read: understand) Microsoft PowerPoint.
-This template has undergone only mild testing via my Mac (Monterrey) and a Windows 11 VM.
+This template has undergone only mild testing via my Mac (Monterey) and a Windows 11 VM.
 I suspect there to be some bugs, particularly associated with the required fonts.
 
 ## How to use
