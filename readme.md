@@ -4,7 +4,6 @@ You like Beamer but need to use PowerPoint? Fake Beamer is for you!
 
 ![](images/title.png)  
 ![](images/content.png)
-(don't worry, those icons in the bottom left are only visable on the presenter's screen)
 
 ## Disclaimer
 
