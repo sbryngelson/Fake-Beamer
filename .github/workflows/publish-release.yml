@@ -1,0 +1,39 @@
+name: Publish release assets
+
+on:
+  release:
+    types: [published]
+
+permissions:
+  contents: write
+
+jobs:
+  upload:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Bundle Computer Modern fonts
+        run: zip -r computer-modern-fonts.zip computer-modern-fonts
+
+      - name: Bundle full template kit
+        run: |
+          zip -j fake-beamer-kit.zip \
+            fake-beamer.thmx \
+            fake-beamer.potx \
+            example.pptx \
+            LICENSE \
+            readme.md
+          zip -r fake-beamer-kit.zip computer-modern-fonts
+
+      - name: Attach assets to release
+        uses: softprops/action-gh-release@v2
+        with:
+          files: |
+            fake-beamer.thmx
+            fake-beamer.potx
+            example.pptx
+            computer-modern-fonts.zip
+            fake-beamer-kit.zip

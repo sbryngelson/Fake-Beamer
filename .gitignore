@@ -1,2 +1,6 @@
 *.DS_Store
 .DS_Store
+~$*.pptx
+~$*.potx
+~$*.thmx
+Thumbs.db
